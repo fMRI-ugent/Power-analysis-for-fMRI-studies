@@ -23,7 +23,7 @@ Some of them focus on power analysis in general, while the majority are specific
 - Videos (2h30) from Cimec [Think OpenRovereto Symposium: Power analysis for neuroimaging](https://www.youtube.com/watchv=Gl7i3awmfls&list=PLiX54geLkpPJOtuvyOQ_K4qO_s5MnC42h&index=11)
 
 ## I want to highlight this tool developed in the Department of Statistical Analysis at UGent.
-- The tool is still available [here](http://neuropowertools.org/)
+- The tool is available [here](http://neuropowertools.org/)
 - The paper can be found [here](https://www.biorxiv.org/content/10.1101/049429v1)
 
 ## A useful webpage where a list of online tools and more material about the topic is collected.
