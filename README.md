@@ -29,6 +29,8 @@ Some of them focus on power analysis in general, while the majority are specific
 ## A useful webpage where a list of online tools and more material about the topic is collected.
 Interesting [webpage](https://brainpower.readthedocs.io/en/latest/) on power calculation for brain studies
 
+@@ Created by Stefania Mattioni. You can contact me at stefania.mattioni@ugent.be for any questions. Please also let me know if you have any additional information to add to the list.@@
+
 
 
 
