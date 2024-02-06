@@ -12,8 +12,7 @@ Some of them focus on power analysis in general, while the majority are specific
 - [fMRI replicability depends upon sufficient individual-level data (Derek Evan Nee, 2019)](https://www.nature.com/articles/s42003-019-0378-6)
 - [Reply to: fMRI replicability depends upon sufficient individual-level data (Turner et al., 2019)](https://www.nature.com/articles/s42003-019-0379-5)
 - [Setting sample size using cost efficiency in fMRI studies(Guo et al., 2012)](http://www.dovepress.com/getfile.php?fileID=12772)
-- [An empirical investigation into the number of subjects required for an event-related fMRI study (Murphy and Garavan 2004)]: (https://www.sciencedirect.com/science/article/abs/pii/S1053811904000977?via%3Dihub)
-
+- [An empirical investigation into the number of subjects required for an event-related fMRI study (Murphy and Garavan 2004](https://www.sciencedirect.com/science/article/abs/pii/S1053811904000977?via%3Dihub)
 
 ## Here are some videos and more interactive material:
 - Video of [Mumford talk](https://www.youtube.com/watch?v=uR2CrzWKFVE)
@@ -21,13 +20,13 @@ Some of them focus on power analysis in general, while the majority are specific
 - From the [Andy’s brain blog](https://www.andysbrainblog.com/andysbrainblog/tag/statistics)
 - From [coursera](https://www.coursera.org/lecture/improving-statistical-questions/lecture-3-2-power-analysis-4ZaNz) (short video on power analysis in general not MRI specific) 
 - [Slides from Nichole Lighthall](https://cpb-us-e1.wpmucdn.com/sites.usc.edu/dist/1/803/files/2013/06/Nicholes_powerpoint.pdf) (April 2012) 
-- Videos (2h30) from Cimec [Think OpenRovereto Symposium: Power analysis for neuroimaging](https://www.youtube.com/watch?v=Gl7i3awmfls&list=PLiX54geLkpPJOtuvyOQ_K4qO_s5MnC42h&index=11)
+- Videos (2h30) from Cimec [Think OpenRovereto Symposium: Power analysis for neuroimaging](https://www.youtube.com/watchv=Gl7i3awmfls&list=PLiX54geLkpPJOtuvyOQ_K4qO_s5MnC42h&index=11)
 
-## I want to highlight this tool developeed in the department of Statistical Analsysis in Ugent
+## I want to highlight this tool developed in the Department of Statistical Analysis at UGent.
 - The tool is still available [here](http://neuropowertools.org/)
 - The paper can be found [here](https://www.biorxiv.org/content/10.1101/049429v1)
 
-## A useful webpage where a list of online tools and more materia about thee topic are collected
+## A useful webpage where a list of online tools and more material about the topic is collected.
 Interesting [webpage](https://brainpower.readthedocs.io/en/latest/) on power calculation for brain studies
 
 
