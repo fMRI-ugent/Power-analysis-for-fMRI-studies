@@ -1,15 +1,17 @@
 # Power-analysis-for-fMRI-studies
 Here, you can find useful materials and links to conduct power analyses and calculate sample sizes for fMRI studies.
-
+```diff
 ## Let's start with some relevant papers:
+```
+Some of them focus on power analysis in general, while the majority are specific to fMRI studies.
 - [How many participants do we have to include in properly powered experiments? A tutorial of power analysis with reference tables (M. Brysbaert 2019)](https://www.journalofcognition.org/articles/10.5334/joc.72/)
-- A power calculation guide for fMRI studies (J. Mumford 2012): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427872/
-- Sample size evolution in neuroimaging research: An evaluation of highly-cited studies (1990–2012) and of latest practices (2017–2018) in high-impact journals: https://www.sciencedirect.com/science/article/pii/S1053811920306509
-- Small sample sizes reduce the replicability of task-based fMRI studies (Turner et al., 2018): https://www.nature.com/articles/s42003-018-0073-z
-- fMRI replicability depends upon sufficient individual-level data (Derek Evan Nee, 2019): https://www.nature.com/articles/s42003-019-0378-6
-- Reply to: fMRI replicability depends upon sufficient individual-level data (Turner et al., 2019): https://www.nature.com/articles/s42003-019-0379-5
-- http://www.dovepress.com/getfile.php?fileID=12772 
-- An empirical investigation into the number of subjects required for an event-related fMRI study (Murphy and Garavan 2004): https://www.sciencedirect.com/science/article/abs/pii/S1053811904000977?via%3Dihub
+- [A power calculation guide for fMRI studies (J. Mumford 2012)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427872/)
+- [Sample size evolution in neuroimaging research: An evaluation of highly-cited studies (1990–2012) and of latest practices (2017–2018) in high-impact journals](https://www.sciencedirect.com/science/article/pii/S1053811920306509)
+- [Small sample sizes reduce the replicability of task-based fMRI studies (Turner et al., 2018)](https://www.nature.com/articles/s42003-018-0073-z)
+- [fMRI replicability depends upon sufficient individual-level data (Derek Evan Nee, 2019)](https://www.nature.com/articles/s42003-019-0378-6)
+- [Reply to: fMRI replicability depends upon sufficient individual-level data (Turner et al., 2019)](https://www.nature.com/articles/s42003-019-0379-5)
+- [Setting sample size using cost efficiency in fMRI studies(Guo et al., 2012)](http://www.dovepress.com/getfile.php?fileID=12772)
+- [An empirical investigation into the number of subjects required for an event-related fMRI study (Murphy and Garavan 2004)]: (https://www.sciencedirect.com/science/article/abs/pii/S1053811904000977?via%3Dihub)
 
 
 
