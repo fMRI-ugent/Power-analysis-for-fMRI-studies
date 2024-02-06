@@ -1,8 +1,8 @@
 # Power-analysis-for-fMRI-studies
 Here, you can find useful materials and links to conduct power analyses and calculate sample sizes for fMRI studies.
-```diff
-## Let's start with some relevant papers:
-```
+
+## @@ Let's start with some relevant papers: @@
+
 Some of them focus on power analysis in general, while the majority are specific to fMRI studies.
 - [How many participants do we have to include in properly powered experiments? A tutorial of power analysis with reference tables (M. Brysbaert 2019)](https://www.journalofcognition.org/articles/10.5334/joc.72/)
 - [A power calculation guide for fMRI studies (J. Mumford 2012)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427872/)
