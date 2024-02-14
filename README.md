@@ -1,4 +1,4 @@
-# Power-analysis-for-fMRI-studies-info&useful-links
+# Power-analysis-for-fMRI-studies--info&useful-links
 Here, you can find useful materials and links to conduct power analyses and calculate sample sizes for fMRI studies.
 
 
